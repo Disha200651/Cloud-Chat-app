@@ -3,10 +3,6 @@
 A modern, real-time chat application built with React and Firebase, featuring multi-room support, file uploads, AI integration, message reactions, presence indicators, and more.
 
 
-*(Optional: Add a screenshot of your app here)*
-
----
-
 ## ✨ Features
 
 * **Real-time Messaging:** Instant message delivery using Firestore.
