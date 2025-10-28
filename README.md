@@ -1,6 +1,6 @@
 # Cloud Chat App ☁️💬
 
-A modern, real-time chat application built with React and Firebase, featuring multi-room support, file uploads, AI integration, message reactions, presence indicators, and more.
+A modern, real-time chat application built with React and Firebase, featuring multi-room support, file uploads, AI integration, message reactions, and more.
 
 
 ## ✨ Features
@@ -15,25 +15,20 @@ A modern, real-time chat application built with React and Firebase, featuring mu
 * **AI Integration:** Interact with Google Gemini AI directly within chat rooms using `@ai` mentions.
 * **Message Reactions:** React to messages with emojis (👍, ❤️, 😂).
 * **Message Editing & Deleting:** Users can edit or delete their own sent messages.
-* **Presence Indicators:** See who is currently online via Firebase Realtime Database.
 * **Typing Indicators:** See when other users in the room are actively typing.
-* **Unread & Mention Indicators:** Visual cues in the room list for new messages or mentions.
 * **View Members:** See a list of members currently in a chat room.
-* **Responsive Design:** (Ensure your CSS/styles support this) A clean interface designed for modern browsers.
-
----
+* 
 
 ## 🛠️ Tech Stack
-
-* **Frontend:** React.js
-* **Routing:** React Router DOM
-* **Backend Services:** Firebase
-    * **Authentication:** Firebase Authentication
-    * **Database (Messages, Rooms, Users):** Cloud Firestore
-    * **Database (Presence):** Firebase Realtime Database
-* **File Storage:** Cloudinary
-* **AI:** Google Generative AI (Gemini API - Client-Side)
-* **Styling:** Inline Styles / CSS (with CSS Variables)
+**Frontend:** React.js
+**Routing:** React Router DOM
+**Backend Services:** Firebase
+     **Authentication:** Firebase Authentication
+     **Database (Messages, Rooms, Users):** Cloud Firestore
+     **Database (Presence):** Firebase Realtime Database
+     **File Storage:** Cloudinary
+ **AI:** Google Generative AI (Gemini API - Client-Side)
+ **Styling:** Inline Styles / CSS (with CSS Variables)
 
 ---
 
